@@ -8,6 +8,7 @@ function App(){
   return (
     <div>
       <Header name={name}/>
+      <div>New line</div>
       <Footer />
     </div>
   )
